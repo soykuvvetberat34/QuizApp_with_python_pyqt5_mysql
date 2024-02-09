@@ -60,7 +60,16 @@ ENG
 ![Ekran görüntüsü 2024-02-09 195924](https://github.com/soykuvvetberat34/QuizApp_with_python_pyqt5_mysql/assets/69586522/242b3d5f-a940-4803-888c-a972665aef27)
 
 
+**You can login as a student ,enter your school number**
+
+
 ![Ekran görüntüsü 2024-02-09 195942](https://github.com/soykuvvetberat34/QuizApp_with_python_pyqt5_mysql/assets/69586522/a735e5f9-24ab-4792-99ff-927725b79082)
+ENG
+(Login succesfull)
+
+(you are being directed)
+
+(authority->Student)
 
 ![Ekran görüntüsü 2024-02-09 195948](https://github.com/soykuvvetberat34/QuizApp_with_python_pyqt5_mysql/assets/69586522/207e71a9-7bb6-489f-8d9e-ad3743b67aa8)
 
