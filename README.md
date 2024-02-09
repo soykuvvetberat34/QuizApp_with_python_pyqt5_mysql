@@ -26,7 +26,9 @@
 
 ![Ekran görüntüsü 2024-02-09 195442](https://github.com/soykuvvetberat34/QuizApp_with_python_pyqt5_mysql/assets/69586522/dddd6d5c-a1d4-41e9-93e9-1665123bd541)
 
+
 ENG
+
 
 (student registered)
 
