@@ -36,7 +36,7 @@ ENG
 
 -------------------------------------------------------------------------------------------------
 
-
+**If you are teacher and you want to login yo have to enter your private password**
 
 
 ![Ekran görüntüsü 2024-02-09 195502](https://github.com/soykuvvetberat34/QuizApp_with_python_pyqt5_mysql/assets/69586522/94c47d62-9b85-4337-808e-5123803f51bc)
