@@ -65,7 +65,10 @@ ENG
 
 
 ![Ekran görüntüsü 2024-02-09 195942](https://github.com/soykuvvetberat34/QuizApp_with_python_pyqt5_mysql/assets/69586522/a735e5f9-24ab-4792-99ff-927725b79082)
+
+
 ENG
+
 (Login succesfull)
 
 (you are being directed)
