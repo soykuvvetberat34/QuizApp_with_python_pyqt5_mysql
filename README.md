@@ -49,7 +49,7 @@ ENG
 
 **As you can see**
 
-**Your questions on the right side as you can see**
+**You have your questions on the right side as you can see**
 
 
 
