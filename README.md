@@ -53,7 +53,7 @@ ENG
 
 **And 3 buttons below the questions, you can add questions ,delete questions or update questions.**
 
-**Student's id,number,name,surname and point as you can see on the right side**
+**As you can see on the right side, you can see student's id,number,name,surname and point**
 
 
 
