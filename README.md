@@ -15,7 +15,8 @@
 ![Ekran görüntüsü 2024-02-09 195352](https://github.com/soykuvvetberat34/QuizApp_with_python_pyqt5_mysql/assets/69586522/b6d58348-0026-4e0d-991c-9db2660b156c)
 
 
-**If you want to register as a student you have to enter your school number **
+**If you want to register as a student you have to enter your school number**
+
 **Then**
 
 
