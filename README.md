@@ -21,16 +21,15 @@
 
 
 ![Ekran görüntüsü 2024-02-09 195405](https://github.com/soykuvvetberat34/QuizApp_with_python_pyqt5_mysql/assets/69586522/ab563678-e176-4873-8db5-d7265b2ca294)                                           
-
-
 ![Ekran görüntüsü 2024-02-09 195430](https://github.com/soykuvvetberat34/QuizApp_with_python_pyqt5_mysql/assets/69586522/8b25bcdb-8e9b-4a84-bf43-399735cef4cc)
+**Enter your name and surname**
 
 ![Ekran görüntüsü 2024-02-09 195442](https://github.com/soykuvvetberat34/QuizApp_with_python_pyqt5_mysql/assets/69586522/dddd6d5c-a1d4-41e9-93e9-1665123bd541)
 
+**and you are registered in the system**
 
 -------------------------------------------------------------------------------------------------
 
-**---------------------------------------------------------------------------------------------------------------------------**
 
 
 
