@@ -1,1 +1,1 @@
-# QuizApp_with_python_pyqt5_mysql
+#Quiz application with python pyqt5 and mysql
