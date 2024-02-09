@@ -41,9 +41,13 @@ ENG
 
 ![Ekran görüntüsü 2024-02-09 195502](https://github.com/soykuvvetberat34/QuizApp_with_python_pyqt5_mysql/assets/69586522/94c47d62-9b85-4337-808e-5123803f51bc)
 
+**Then teacher panel will open**
+
+
 
 ![Ekran görüntüsü 2024-02-09 195519](https://github.com/soykuvvetberat34/QuizApp_with_python_pyqt5_mysql/assets/69586522/abf173f3-bc64-4acd-b316-628e59688620)
 
+**As you can see**
 
 
 
