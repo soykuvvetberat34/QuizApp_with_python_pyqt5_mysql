@@ -90,9 +90,21 @@ ENG
 ----------------------------------------------------------------------------------------
 ![Ekran görüntüsü 2024-02-09 195959](https://github.com/soykuvvetberat34/QuizApp_with_python_pyqt5_mysql/assets/69586522/ab00d592-9860-4797-a248-da17d541f473)
 
+**You can see your score if you enter the button of PUANINI GÖR(see your score)**
 
+ENG
+
+(Your score)
+
+(The student with name is studentName StudentSurname and student's score : studentScore)
+
+
+--------------------------------------------------------------------------------------
 ![Ekran görüntüsü 2024-02-09 200219](https://github.com/soykuvvetberat34/QuizApp_with_python_pyqt5_mysql/assets/69586522/8ddaf338-ddb8-4043-8976-7a39c47b7206)
 
 
+
+
+----------------------------------------------------------------------------------------
 ![Ekran görüntüsü 2024-02-09 200248](https://github.com/soykuvvetberat34/QuizApp_with_python_pyqt5_mysql/assets/69586522/2e46c50c-a93e-43b3-90b1-90c6b5f482eb)
 
