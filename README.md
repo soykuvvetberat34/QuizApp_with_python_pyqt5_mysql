@@ -75,8 +75,17 @@ ENG
 
 (authority->Student)
 
+-----------------------------------------------------------------------------------------
+
 ![Ekran görüntüsü 2024-02-09 195948](https://github.com/soykuvvetberat34/QuizApp_with_python_pyqt5_mysql/assets/69586522/207e71a9-7bb6-489f-8d9e-ad3743b67aa8)
 
+(Welcome studentName studentSurname)
+
+**Left**
+(See your score)
+
+**Right**
+(go to quiz)
 
 ![Ekran görüntüsü 2024-02-09 195959](https://github.com/soykuvvetberat34/QuizApp_with_python_pyqt5_mysql/assets/69586522/ab00d592-9860-4797-a248-da17d541f473)
 
