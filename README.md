@@ -100,11 +100,19 @@ ENG
 
 
 --------------------------------------------------------------------------------------
+
+**If you pressed the Quizi gör(go to quiz) this test panel will open**
+
+**If you have an idea about the questions, click on one of the options. Otherwise, click on the BOŞ BIRAK(leave blank) button and skip the question. The system automatically gives 1 minute per question. When you finish the test, either press the TESTİ BİTİR(finish the test) button or wait for the time to expire and your score will be saved in the system.**
+
 ![Ekran görüntüsü 2024-02-09 200219](https://github.com/soykuvvetberat34/QuizApp_with_python_pyqt5_mysql/assets/69586522/8ddaf338-ddb8-4043-8976-7a39c47b7206)
 
 
 
 
 ----------------------------------------------------------------------------------------
+
+**As you can see your score increased!**
+
 ![Ekran görüntüsü 2024-02-09 200248](https://github.com/soykuvvetberat34/QuizApp_with_python_pyqt5_mysql/assets/69586522/2e46c50c-a93e-43b3-90b1-90c6b5f482eb)
 
