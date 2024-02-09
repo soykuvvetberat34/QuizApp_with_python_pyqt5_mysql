@@ -1,9 +1,7 @@
 **Quiz application with python pyqt5 and mysql**
 -------------------------------------------------------------------------------------------------
 
-![Ekran görüntüsü 2024-02-09 195236](https://github.com/soykuvvetberat34/QuizApp_with_python_pyqt5_mysql/assets/69586522/aa8494cd-f2ed-47bc-962b-2c610ef3044f)
-
-![Ekran görüntüsü 2024-02-09 195352](https://github.com/soykuvvetberat34/QuizApp_with_python_pyqt5_mysql/assets/69586522/b6d58348-0026-4e0d-991c-9db2660b156c)
+![Ekran görüntüsü 2024-02-09 195236](https://github.com/soykuvvetberat34/QuizApp_with_python_pyqt5_mysql/assets/69586522/aa8494cd-f2ed-47bc-962b-2c610ef3044f) ![Ekran görüntüsü 2024-02-09 195352](https://github.com/soykuvvetberat34/QuizApp_with_python_pyqt5_mysql/assets/69586522/b6d58348-0026-4e0d-991c-9db2660b156c)
 
 ![Ekran görüntüsü 2024-02-09 195405](https://github.com/soykuvvetberat34/QuizApp_with_python_pyqt5_mysql/assets/69586522/ab563678-e176-4873-8db5-d7265b2ca294)
 
