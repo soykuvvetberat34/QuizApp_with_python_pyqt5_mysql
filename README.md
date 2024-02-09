@@ -28,8 +28,9 @@
 
 ENG
 
-(student registered
-student Berat SOYKUVVET registered, please Login!)
+(student registered)
+
+(student Berat SOYKUVVET registered, please Login!)
 
 **and you are registered in the system**
 
