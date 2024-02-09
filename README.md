@@ -1,0 +1,1 @@
+# QuizApp_with_python_pyqt5_mysql
