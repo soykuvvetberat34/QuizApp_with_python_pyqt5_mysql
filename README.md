@@ -55,11 +55,21 @@ ENG
 
 **As you can see on the right side, you can see student's id,number,name,surname and point**
 
+------------------------------------------------------------------------------------
+
+![Ekran görüntüsü 2024-02-09 195924](https://github.com/soykuvvetberat34/QuizApp_with_python_pyqt5_mysql/assets/69586522/242b3d5f-a940-4803-888c-a972665aef27)
 
 
+![Ekran görüntüsü 2024-02-09 195942](https://github.com/soykuvvetberat34/QuizApp_with_python_pyqt5_mysql/assets/69586522/a735e5f9-24ab-4792-99ff-927725b79082)
+
+![Ekran görüntüsü 2024-02-09 195948](https://github.com/soykuvvetberat34/QuizApp_with_python_pyqt5_mysql/assets/69586522/207e71a9-7bb6-489f-8d9e-ad3743b67aa8)
 
 
+![Ekran görüntüsü 2024-02-09 195959](https://github.com/soykuvvetberat34/QuizApp_with_python_pyqt5_mysql/assets/69586522/ab00d592-9860-4797-a248-da17d541f473)
 
 
+![Ekran görüntüsü 2024-02-09 200219](https://github.com/soykuvvetberat34/QuizApp_with_python_pyqt5_mysql/assets/69586522/8ddaf338-ddb8-4043-8976-7a39c47b7206)
 
+
+![Ekran görüntüsü 2024-02-09 200248](https://github.com/soykuvvetberat34/QuizApp_with_python_pyqt5_mysql/assets/69586522/2e46c50c-a93e-43b3-90b1-90c6b5f482eb)
 
