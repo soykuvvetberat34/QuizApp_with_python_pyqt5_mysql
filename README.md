@@ -49,10 +49,11 @@ ENG
 
 **As you can see**
 
-**You have your questions on the right side as you can see**
+**You have your questions on the left side as you can see**
 
 **And 3 buttons below the questions, you can add questions ,delete questions or update questions.**
 
+**Student's id,number,name,surname and point you can see on the right side**
 
 
 
